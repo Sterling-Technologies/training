@@ -1,2 +1,2 @@
 <?php
-echo 'say whatever!!!!';
+echo 5;
